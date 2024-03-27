@@ -23,4 +23,13 @@ Use an LLM to generate code to determine **which country consumed the least meat
     * THND_TONNE - thousand tonnes.
   * TIME is the year.
   * VALUE is the value for the indicator.
+ 
+PART 2:
+
+Was exercise 1 too easy? Try this!
+
+**Which country has the least annual meat consumption per capita the most years between 2000 and 2020?**
+
+For example, if country X consumed the least for 7 yrs, and country Y consumed the least for 13 years. Country Y would be the answer.
+
 
