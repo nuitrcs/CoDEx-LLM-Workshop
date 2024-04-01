@@ -1,7 +1,7 @@
 # CoDEx-LLM-Workshop
 Materials for the workshop "How to code with LLMs" - CoDEx 2024.
 
-The workshop slides are in the file 'LLM_Codex_Workshop.pdf', and the prompt engineering summary sheet is in 'prompt_engineering_cheat_sheet.docx'.
+The workshop slides are in the file 'LLM_Codex_Workshop.pdf', and the prompt engineering summary sheet is in 'prompt_engineering_cheat_sheet.pdf'.
 
 **Hands-on Exercise**
 
